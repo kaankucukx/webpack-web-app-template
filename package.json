@@ -1,0 +1,25 @@
+{
+  "name": "webpack-web-app-template",
+  "version": "1.0.0",
+  "description": "template to make you start your project quickly without hasseling with plug-ins, loaders, modules etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaankucukx/webpack-web-app-template.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Kaan KÜÇÜK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaankucukx/webpack-web-app-template/issues"
+  },
+  "homepage": "https://github.com/kaankucukx/webpack-web-app-template#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
